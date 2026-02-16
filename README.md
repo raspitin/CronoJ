@@ -167,4 +167,6 @@ Prima della messa in esercizio:
 
 ## Licenza
 
-MIT (vedi file `LICENSE` se presente nel repository).
+Questo progetto e distribuito con licenza `PolyForm-Noncommercial-1.0.0` (vedi file `LICENSE`).
+
+Uso commerciale non consentito senza accordo separato con l'autore.
